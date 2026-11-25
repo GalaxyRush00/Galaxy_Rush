@@ -366,7 +366,7 @@ const alturaMaxima = 6;
 // VELOCIDAD DE LA NAVE
 
 const velocidadNormal = 0.33;
-const velocidadRapida = 0.70;
+const velocidadRapida = 0.50;
 let velocidadActual = velocidadNormal;
 let tiempoVelocidad = 0;
 
