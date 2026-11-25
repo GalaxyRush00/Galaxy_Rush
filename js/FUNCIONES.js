@@ -2789,7 +2789,7 @@ menuPrincipal.style.cssText = `
     justify-content: center;
     align-items: center;
     background-image:
-        url('./imagenes/fondo.menu.png');
+        url('./imagenes/fondo.menu.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
