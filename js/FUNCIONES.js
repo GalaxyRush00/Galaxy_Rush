@@ -365,7 +365,7 @@ const alturaMaxima = 6;
 
 // VELOCIDAD DE LA NAVE
 
-const velocidadNormal = 0.22;
+const velocidadNormal = 0.18;
 const velocidadRapida = 0.28;
 let velocidadActual = velocidadNormal;
 let tiempoVelocidad = 0;
@@ -3611,7 +3611,7 @@ function animate() {
         // GIRAR LOS CORAZONES SOBRE SU PROPIO EJE
         for (const corazon of corazonesInScene) {
             if (corazon.visible) {
-                corazon.rotation.y += 0.08;
+                corazon.rotation.y += 0.04;
             }
         }
 
