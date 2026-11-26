@@ -694,7 +694,7 @@ const sonidoPocion = new Audio('./sonidos/posion.mp3');
 sonidoPocion.volume = 0.4;
 
 // MÚSICA DURANTE EL JUEGO
-const musicaJuego = new Audio('./sonidos/musicaJuego.ogg');
+const musicaJuego = new Audio('./musicaJuego.ogg');
 musicaJuego.loop = true;
 musicaJuego.volume = 0.10;
 
